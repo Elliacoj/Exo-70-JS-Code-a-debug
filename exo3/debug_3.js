@@ -9,7 +9,7 @@ while(boucle < 5) {
 document.getElementById('main').innerHTML = "ttttttttttttttttt";
 
 if(boucle === 1) {
-alert('connue');
+    alert('connue');
 }
 else {
     alert("inconnue");
